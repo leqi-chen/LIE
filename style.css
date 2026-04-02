@@ -18,15 +18,7 @@
     }
     h1{
         color:darkblue;
-        /*background-image:url(images/logo.jpg);
-        background-repeat:no-repeat;
-        background-position:center;
-        width: 1px;
-        text-indent:-300px;*/
     }
-    /*li{
-        font-size:24px;
-    }*/
     /*重制内外边距*/
     * {
         padding:0;
@@ -34,25 +26,12 @@
     }
     p a{
         text-decoration:none;
-        color:blue;
+        color:darkblue;
     }
     p a:hover{
         text-decoration:underline;
     }
-    /*header li{
-        display:inline;
-        margin-right: 4vw;
-    }*/
     section{
         background-color: gainsboro;
         border:5px white solid;
     }
-    /*.news{
-        background-color:antiquewhite;
-        color:white;
-        height:85vh;
-        background-image:url("images/banner.jpg");
-        background-repeat:no-repeat;
-        background-size:contain;
-        background-position:center;
-    }*/
